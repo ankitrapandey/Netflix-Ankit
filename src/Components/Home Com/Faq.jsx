@@ -10,8 +10,6 @@ export default function Faq() {
 
         }));
     }
-
-
     return (
         <>
             <div className='w-full h-[100%] bg-black py-24 px-4'>
