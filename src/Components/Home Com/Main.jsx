@@ -10,13 +10,13 @@ import Footer from './Footer'
 const Main = () => {
   return (
 <>
-{/* <Homedes/> */}
- <Middelsec1/> 
-{/* <Middelsec2/>
+<Homedes/>
+  <Middelsec1/> 
+ <Middelsec2/>
 <Middelsec3/>
-<Middelsec4/> */}
-{/* <Faq/> */}
-{/* <Footer/>  */}
+<Middelsec4/> 
+<Faq/>
+<Footer/>  
 
 
 
